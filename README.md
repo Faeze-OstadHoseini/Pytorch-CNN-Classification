@@ -170,7 +170,8 @@ If you'd like to contribute to this project:
 
 📧 Contact
 
-GitHub: github.com/Faeze-OstadHoseini
+GitHub: https://github.com/Faeze-OstadHoseini
+
 Email: ostadhoseinifaeze@gmail.com
 
 
