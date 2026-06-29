@@ -75,7 +75,7 @@ Pytorch-CNN-Classification/
 Method 1: Using Docker (Recommended for GPU)
 
 # 1. Clone the project
-git clone https://github.com/your-username/Pytorch-CNN-Classification.git
+git clone https://github.com/Faeze-OstadHoseini/Pytorch-CNN-Classification.git
 cd Pytorch-CNN-Classification
 
 # 2. Run with Docker Compose
