@@ -22,7 +22,7 @@ This project is a complete educational course for learning PyTorch and Convoluti
 
 
 📁 Project Structure
-
+```text
 Pytorch-CNN-Classification/
 │
 ├── 📓 01-01.ipynb              # PyTorch Introduction
@@ -68,7 +68,7 @@ Pytorch-CNN-Classification/
 └── 📂 stepbystep/              # StepByStep class
     ├── v0.py                   # Version 0 - Base class
     └── v1.py                   # Version 1 - Complete class
-
+```
 
 🚀 Installation and Setup
 
